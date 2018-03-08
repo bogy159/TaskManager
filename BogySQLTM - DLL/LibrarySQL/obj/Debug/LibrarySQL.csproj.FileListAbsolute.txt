@@ -1,0 +1,9 @@
+C:\Users\Blagoy\Desktop\BogySQLTM - Copy\LibrarySQL\bin\Debug\LibrarySQL.dll.config
+C:\Users\Blagoy\Desktop\BogySQLTM - Copy\LibrarySQL\bin\Debug\LibrarySQL.dll
+C:\Users\Blagoy\Desktop\BogySQLTM - Copy\LibrarySQL\bin\Debug\LibrarySQL.pdb
+C:\Users\Blagoy\Desktop\BogySQLTM - Copy\LibrarySQL\bin\Debug\EntityFramework.dll
+C:\Users\Blagoy\Desktop\BogySQLTM - Copy\LibrarySQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Blagoy\Desktop\BogySQLTM - Copy\LibrarySQL\bin\Debug\EntityFramework.xml
+C:\Users\Blagoy\Desktop\BogySQLTM - Copy\LibrarySQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Blagoy\Desktop\BogySQLTM - Copy\LibrarySQL\obj\Debug\LibrarySQL.dll
+C:\Users\Blagoy\Desktop\BogySQLTM - Copy\LibrarySQL\obj\Debug\LibrarySQL.pdb

@@ -1,0 +1,81 @@
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\bin\Debug\BogyWinFormTM.exe.config
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.csprojResolveAssemblyReference.cache
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.Properties.Resources.resources
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.csproj.GenerateResource.Cache
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\bin\Debug\BogyWinFormTM.exe
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\bin\Debug\BogyWinFormTM.pdb
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.exe
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.pdb
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.Index.resources
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.NewUser.resources
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.NewTask.resources
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.NewTime.resources
+C:\Users\Blagoy\Documents\Visual Studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.EditUser.resources
+C:\Users\Blagoy\Documents\Visual Studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.FindUser.resources
+C:\Users\Blagoy\Documents\Visual Studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.EditTask.resources
+C:\Users\Blagoy\Documents\Visual Studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.FindTask.resources
+C:\Users\Blagoy\Documents\Visual Studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.EditTime.resources
+C:\Users\Blagoy\Documents\Visual Studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.FindTime.resources
+C:\Users\Blagoy\Documents\Visual Studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.ListUsers.resources
+C:\Users\Blagoy\Documents\Visual Studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.ListTasks.resources
+C:\Users\Blagoy\Documents\Visual Studio 2013\Projects\BogyWinFormTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.ListTimes.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\bin\Debug\BogyWinFormTM.exe.config
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.exe
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.pdb
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\bin\Debug\BogyWinFormTM.exe
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\bin\Debug\BogyWinFormTM.pdb
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.csprojResolveAssemblyReference.cache
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.Properties.Resources.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.EditTask.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.EditTime.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.EditUser.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.Index.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.ListTasks.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.ListTimes.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.ListUsers.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.NewTask.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.NewTime.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.NewUser.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2\BogyWinFormTM\obj\Debug\BogyWinFormTM.csproj.GenerateResource.Cache
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\bin\Debug\BogyWinFormTM.exe.config
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.exe
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.pdb
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\bin\Debug\BogyWinFormTM.exe
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\bin\Debug\BogyWinFormTM.pdb
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.csprojResolveAssemblyReference.cache
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.Properties.Resources.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.EditTask.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.EditTime.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.EditUser.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.Index.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.ListTasks.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.ListTimes.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.ListUsers.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.NewTask.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.NewTime.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.NewUser.resources
+C:\Users\Blagoy\Desktop\BogyWinFormTM2 - Copy\BogyWinFormTM\obj\Debug\BogyWinFormTM.csproj.GenerateResource.Cache
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\bin\Debug\BogyWinFormTM.exe.config
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.exe
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.pdb
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\bin\Debug\BogyWinFormTM.exe
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\bin\Debug\BogyWinFormTM.pdb
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.Properties.Resources.resources
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.EditTask.resources
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.EditTime.resources
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.EditUser.resources
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.Index.resources
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.ListTasks.resources
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.ListTimes.resources
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.ListUsers.resources
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.NewTask.resources
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.NewTime.resources
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.View.NewUser.resources
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.csproj.GenerateResource.Cache
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\bin\Debug\LibraryADO.dll
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\bin\Debug\LibraryADO.pdb
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\bin\Debug\EntityFramework.dll
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\bin\Debug\EntityFramework.xml
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Blagoy\Desktop\BogyADOTM\BogyWinFormTM\obj\Debug\BogyWinFormTM.csprojResolveAssemblyReference.cache

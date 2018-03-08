@@ -1,0 +1,12 @@
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyConsoleTM\BogyConsoleTM\bin\Debug\BogyConsoleTM.exe.config
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyConsoleTM\BogyConsoleTM\bin\Debug\BogyConsoleTM.exe
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyConsoleTM\BogyConsoleTM\bin\Debug\BogyConsoleTM.pdb
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyConsoleTM\BogyConsoleTM\obj\Debug\BogyConsoleTM.csprojResolveAssemblyReference.cache
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyConsoleTM\BogyConsoleTM\obj\Debug\BogyConsoleTM.exe
+c:\users\blagoy\documents\visual studio 2013\Projects\BogyConsoleTM\BogyConsoleTM\obj\Debug\BogyConsoleTM.pdb
+D:\Work\PU\3-ti Kurs\1 trim\Praktika\BogyConsoleTM\BogyConsoleTM\BogyConsoleTM\bin\Debug\BogyConsoleTM.exe.config
+D:\Work\PU\3-ti Kurs\1 trim\Praktika\BogyConsoleTM\BogyConsoleTM\BogyConsoleTM\obj\Debug\BogyConsoleTM.exe
+D:\Work\PU\3-ti Kurs\1 trim\Praktika\BogyConsoleTM\BogyConsoleTM\BogyConsoleTM\obj\Debug\BogyConsoleTM.pdb
+D:\Work\PU\3-ti Kurs\1 trim\Praktika\BogyConsoleTM\BogyConsoleTM\BogyConsoleTM\obj\Debug\BogyConsoleTM.csprojResolveAssemblyReference.cache
+D:\Work\PU\3-ti Kurs\1 trim\Praktika\BogyConsoleTM\BogyConsoleTM\BogyConsoleTM\bin\Debug\BogyConsoleTM.exe
+D:\Work\PU\3-ti Kurs\1 trim\Praktika\BogyConsoleTM\BogyConsoleTM\BogyConsoleTM\bin\Debug\BogyConsoleTM.pdb
